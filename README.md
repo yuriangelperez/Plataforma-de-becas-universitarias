@@ -1,4 +1,4 @@
-# Plataforma de beecas universitarias
+# Plataforma de becas universitarias
 ---
 Integrantes:
 - Yuriangel Pérez
